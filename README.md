@@ -3,11 +3,9 @@
 
 - 🔭 Atualmente estou trabalhando com Análise de Dados no projeto **Analise de dados com ambiente de RH**
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em **Python e Tableau**
-
 - 💬 Me pergunte sobre **SQL, Power BI, Python e Excel**
 
-- 📫 Você me acha através do e-mail **barzocchini@gmail.com**
+- 📫 Você pode me contactar através do e-mail **barzocchini@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências em [https://www.linkedin.com/in/danielbarzocchini/](https://www.linkedin.com/in/danielbarzocchini/)
 
@@ -22,6 +20,9 @@
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <!---
+
+- 🌱 Atualmente estou aprofundando meus conhecimentos em **Python e Tableau**
+
 
 - 👋 Hi, I’m @DanielBarzocchini
 - 👀 I’m interested in ...
